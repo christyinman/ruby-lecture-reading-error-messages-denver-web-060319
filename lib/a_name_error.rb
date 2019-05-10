@@ -1,3 +1,3 @@
 "hello world"
 
-touch hello_world.rb
+"hello_world"
